@@ -1,6 +1,6 @@
-- 🐮 Hi, I’m a depressed calf
-- 🎮 I’m interested in games
-- 🎾 I’m currently learning racket
+- 🐮 Hi, I’m a depressed calf.
+- 🎮 I’m interested in games.
+- 🇰 I’m currently learning Kotlin.
 - 💔 I want to play alone for now.
 - ☕ I do not want to be reached.
 - 🌈 Pronouns: It doesn't matter.
